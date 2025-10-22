@@ -5,7 +5,7 @@
 Crear una página web simple usando únicamente HTML que funcione como tu portafolio personal.
 
 ## Datos del estudiante
-**Nombre:** Cacuango Toapanta Mateo
+**Nombre:** Cacuango Toapanta Mateo Alessandro
 **Carrera:** Desarrollo de Software
 
 ## Instrucciones
